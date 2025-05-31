@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+  background-color:white
+}
+
+.page-wrapper {
+  max-width: 800px;
+  margin: 0 auto; 
+  padding: 1rem;
+}
+
+#img-div {
+  margin: 35px;
+  padding: 20px;
+  background-color: #eee;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption {
+  margin-top: 10px;
+  font-style: italic;
+}
+
+#tribute-info {
+  padding: 20px;
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color:#eee;
+}
